@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 project('hse-workshop-1', 'cpp', default_options: ['cpp_std=c++17'])
 
 

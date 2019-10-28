@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 .PHONY: all clean
 
 OBJECTS = main.o my_sum.o
