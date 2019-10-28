@@ -16,4 +16,4 @@ make
 ```
 
 ## License
-CC0-1.0
+CC0-1.0. See COPYING for details
